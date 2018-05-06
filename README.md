@@ -1,3 +1,2 @@
-# fCCbeta
-Projects and challenges from the fccBeta curriculum
-test
+FCC Mongo & Mongoose Challenges
+===============================
