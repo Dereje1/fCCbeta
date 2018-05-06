@@ -1,3 +1,1 @@
-# fCCbeta
-Projects and challenges from the fccBeta curriculum
-test
+# Backend Challenges Boilerplate - Basic Express
